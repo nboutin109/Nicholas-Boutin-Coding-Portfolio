@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Nicholas-Boutin-Coding-Portfolio/static/css/main.582b25f5.chunk.css",
-    "main.js": "/Nicholas-Boutin-Coding-Portfolio/static/js/main.2063349d.chunk.js",
-    "main.js.map": "/Nicholas-Boutin-Coding-Portfolio/static/js/main.2063349d.chunk.js.map",
+    "main.js": "/Nicholas-Boutin-Coding-Portfolio/static/js/main.cdd75ee4.chunk.js",
+    "main.js.map": "/Nicholas-Boutin-Coding-Portfolio/static/js/main.cdd75ee4.chunk.js.map",
     "runtime-main.js": "/Nicholas-Boutin-Coding-Portfolio/static/js/runtime-main.ea8ebd66.js",
     "runtime-main.js.map": "/Nicholas-Boutin-Coding-Portfolio/static/js/runtime-main.ea8ebd66.js.map",
-    "static/css/2.862b2f9f.chunk.css": "/Nicholas-Boutin-Coding-Portfolio/static/css/2.862b2f9f.chunk.css",
+    "static/css/2.a5f06b7f.chunk.css": "/Nicholas-Boutin-Coding-Portfolio/static/css/2.a5f06b7f.chunk.css",
     "static/js/2.610c58bf.chunk.js": "/Nicholas-Boutin-Coding-Portfolio/static/js/2.610c58bf.chunk.js",
     "static/js/2.610c58bf.chunk.js.map": "/Nicholas-Boutin-Coding-Portfolio/static/js/2.610c58bf.chunk.js.map",
     "index.html": "/Nicholas-Boutin-Coding-Portfolio/index.html",
-    "precache-manifest.2642e17b6618bfcabfaf122398136b01.js": "/Nicholas-Boutin-Coding-Portfolio/precache-manifest.2642e17b6618bfcabfaf122398136b01.js",
+    "precache-manifest.5fa30dea53c3d1155c73006ffd187ee9.js": "/Nicholas-Boutin-Coding-Portfolio/precache-manifest.5fa30dea53c3d1155c73006ffd187ee9.js",
     "service-worker.js": "/Nicholas-Boutin-Coding-Portfolio/service-worker.js",
-    "static/css/2.862b2f9f.chunk.css.map": "/Nicholas-Boutin-Coding-Portfolio/static/css/2.862b2f9f.chunk.css.map",
+    "static/css/2.a5f06b7f.chunk.css.map": "/Nicholas-Boutin-Coding-Portfolio/static/css/2.a5f06b7f.chunk.css.map",
     "static/css/main.582b25f5.chunk.css.map": "/Nicholas-Boutin-Coding-Portfolio/static/css/main.582b25f5.chunk.css.map",
     "static/js/2.610c58bf.chunk.js.LICENSE.txt": "/Nicholas-Boutin-Coding-Portfolio/static/js/2.610c58bf.chunk.js.LICENSE.txt",
     "static/media/978A0641.jpg": "/Nicholas-Boutin-Coding-Portfolio/static/media/978A0641.0bb253e6.jpg",
@@ -23,15 +23,15 @@
     "static/media/Fitness.PNG": "/Nicholas-Boutin-Coding-Portfolio/static/media/Fitness.f02ff080.PNG",
     "static/media/GH.png": "/Nicholas-Boutin-Coding-Portfolio/static/media/GH.4eb836ff.png",
     "static/media/LI.png": "/Nicholas-Boutin-Coding-Portfolio/static/media/LI.e7cfb64d.png",
-    "static/media/PWGEN.PNG": "/Nicholas-Boutin-Coding-Portfolio/static/media/PWGEN.ccd13d33.PNG",
+    "static/media/Main.PNG": "/Nicholas-Boutin-Coding-Portfolio/static/media/Main.ccd13d33.PNG",
     "static/media/Planner.PNG": "/Nicholas-Boutin-Coding-Portfolio/static/media/Planner.d8adc068.PNG",
     "static/media/notes.PNG": "/Nicholas-Boutin-Coding-Portfolio/static/media/notes.ab0606e4.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.ea8ebd66.js",
-    "static/css/2.862b2f9f.chunk.css",
+    "static/css/2.a5f06b7f.chunk.css",
     "static/js/2.610c58bf.chunk.js",
     "static/css/main.582b25f5.chunk.css",
-    "static/js/main.2063349d.chunk.js"
+    "static/js/main.cdd75ee4.chunk.js"
   ]
 }
