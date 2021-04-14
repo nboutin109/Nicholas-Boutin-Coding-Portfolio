@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nicholas-Boutin-Coding-Portfolio/precache-manifest.e155deb666a6acacb33b94a2f03fe974.js"
+  "/Nicholas-Boutin-Coding-Portfolio/precache-manifest.387b1497bf3018d8c1c2c74184e8ef1e.js"
 );
 
 self.addEventListener('message', (event) => {
