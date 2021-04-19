@@ -13,7 +13,7 @@
 }
 
 #animate1 {
-    background: linear-gradient(45deg, #4ca1e2 0%, #274fc7 49%, #420dac 82%);
+    background: linear-gradient(45deg, #e2564c 0%, #fc0404 49%, #fc630b 82%);
     animation: aurora 10s ease infinite;
     display: block;
     height: auto;
