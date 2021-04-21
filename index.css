@@ -6,62 +6,46 @@
     font-family: "Open Sans";
 }
 
+#aboutMain{
+    display:'flex'; 
+    height: 100vh;
+    align-items:'center';
+    background-image: url('https://cdn.hipwallpaper.com/m/45/23/WKbQMt.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+#listMain{
+    display:'flex'; 
+    height: 100%;
+    align-items:'center';
+    background-image: url('https://cdn.hipwallpaper.com/m/67/41/rWdsF6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+
+
+#contactMain{
+    display:'flex';
+    height: 100vh;
+    align-items:'center';
+    background-image: url('https://cdn.hipwallpaper.com/m/10/50/Yb35SR.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+
 .glass{
     background-color: rgba(255, 255, 255, .15);  
-    backdrop-filter: blur(50px);
-    padding: 1rem 1rem;
-}
-
-#animate1 {
-    background: linear-gradient(45deg, #e2564c 0%, #fc0404 49%, #fc630b 82%);
-    animation: aurora 10s ease infinite;
-    display: block;
-    height: auto;
-    width: auto;
-    z-index: -10;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-size: 200%;
-    -moz-background-size: cover;
-    background-position: center center;
-}
-
-#animate2 {
-    background: radial-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15));
-    animation: aurora 10s ease infinite;
-    display: block;
-    height: auto;
-    width: auto;
-    z-index: -10;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-size: 200%;
-    -moz-background-size: cover;
-    background-position: center center;
-}
-
-@keyframes aurora {
-    0% {
-        background-position: left top;
-    }
-    25% {
-        background-position: right top;
-    }
-    50% {
-        background-position: right bottom;
-    }
-    75% {
-        background-position: left bottom;
-    }
-    100% {
-        background-position: left top;
-    }
+    backdrop-filter: blur(5px);
+    padding: 10px 50px;
+    margin-top: 20px;
 }
 
 .imgEdit{
